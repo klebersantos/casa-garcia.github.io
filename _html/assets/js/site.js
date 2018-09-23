@@ -38,7 +38,9 @@ jQuery(document).ready(function() {
         $('.bt-mod iframe').attr('src', $('.bt-mod iframe').attr('src'));
     });
 
-    $('#telefone').mask('(99) 99999-9999');
+    $('#celular').mask('(99) 99999-9999');
+    
+    $('#telefone').mask('(99) 9999-9999');
 
 
     $(".mob_header span").click(function(event) {

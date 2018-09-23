@@ -21,7 +21,7 @@
                                         <h2>Na Casa Garcia Gourmet Centro Culinário você aprende mais. </h2>
                                         <h5>Conheça nossos cursos de Confeitaria, Panificação e Sorveteria
                                             e aprenda com os melhores.</h5>
-                                        <a href="#" class="bt--padrao">INSCREVA-SE</a>
+                                        <a href="inscreva.php" class="bt--padrao">INSCREVA-SE</a>
                                         
                                     </div>
                                 </div>
@@ -37,7 +37,7 @@
                                     <h2>Na Casa Garcia Gourmet Centro Culinário você aprende mais. </h2>
                                         <h5>Conheça nossos cursos de Confeitaria, Panificação e Sorveteria
                                             e aprenda com os melhores.</h5>
-                                        <a href="#" class="bt--padrao">INSCREVA-SE</a>
+                                        <a href="inscreva.php" class="bt--padrao">INSCREVA-SE</a>
 
                                     </div>
                                 </div>
@@ -53,7 +53,7 @@
                                     <h2>Na Casa Garcia Gourmet Centro Culinário você aprende mais. </h2>
                                         <h5>Conheça nossos cursos de Confeitaria, Panificação e Sorveteria
                                             e aprenda com os melhores.</h5>
-                                        <a href="#" class="bt--padrao">INSCREVA-SE</a>
+                                        <a href="inscreva.php" class="bt--padrao">INSCREVA-SE</a>
                                     </div>
                                 </div>
                             </div>
@@ -80,11 +80,12 @@
 
                <div class="center">
                     <div class="absoluto">
-                        <h2>Alta Gastronomia MOBE </h2>
-                        <h5>Momentos especiais, experiências inesquecíveis.</h5>
-                        <a href="#">Saiba mais</a>
+                        <h2>Na Casa Garcia Gourmet Centro Culinário você aprende mais. </h2>
+                        <h5>Conheça nossos cursos de Confeitaria, Panificação e Sorveteria
+                            e aprenda com os melhores.</h5>
+                        <a href="inscreva.php" class="bt--padrao">INSCREVA-SE</a>
                     </div>
-                    <img src="build/images/mulher.png" alt="">
+                    <img src="build/images/4x3.png" alt="">
                 </div>
 
             </div>
@@ -93,11 +94,12 @@
 
                 <div class="center">
                     <div class="absoluto">
-                        <h2>Alta Gastronomia MOBE </h2>
-                        <h5>Momentos especiais, experiências inesquecíveis.</h5>
-                        <a href="#">Saiba mais</a>
+                        <h2>Na Casa Garcia Gourmet Centro Culinário você aprende mais. </h2>
+                        <h5>Conheça nossos cursos de Confeitaria, Panificação e Sorveteria
+                            e aprenda com os melhores.</h5>
+                        <a href="inscreva.php" class="bt--padrao">INSCREVA-SE</a>
                     </div>
-                    <img src="build/images/mulher.png" alt="">
+                    <img src="build/images/4x3.png" alt="">
                 </div>
 
             </div>
@@ -106,11 +108,12 @@
 
                 <div class="center">
                     <div class="absoluto">
-                        <h2>Alta Gastronomia MOBE </h2>
-                        <h5>Momentos especiais, experiências inesquecíveis.</h5>
-                        <a href="#">Saiba mais</a>
+                        <h2>Na Casa Garcia Gourmet Centro Culinário você aprende mais. </h2>
+                        <h5>Conheça nossos cursos de Confeitaria, Panificação e Sorveteria
+                            e aprenda com os melhores.</h5>
+                        <a href="inscreva.php" class="bt--padrao">INSCREVA-SE</a>
                     </div>
-                    <img src="build/images/mulher.png" alt="">
+                    <img src="build/images/4x3.png" alt="">
                 </div>
 
             </div>
@@ -188,7 +191,7 @@
                             <div class="data"><i class="fa fa-clock-o"></i> 09h - 12h</div>
                         </div>
                         <div class="bts_baixo d-flex justify-content-between">
-                            <a href="#" class="azul">INSCREVA-SE</a>
+                            <a href="inscreva.php" class="azul">INSCREVA-SE</a>
                             <a href="#">SAIBA MAIS</a>
                         </div>
                     </div>
@@ -250,7 +253,7 @@
                             <div class="data"><i class="fa fa-clock-o"></i> 09h - 12h</div>
                         </div>
                         <div class="bts_baixo d-flex justify-content-between">
-                            <a href="#" class="azul">INSCREVA-SE</a>
+                            <a href="inscreva.php" class="azul">INSCREVA-SE</a>
                             <a href="#">SAIBA MAIS</a>
                         </div>
                     </div>
@@ -281,7 +284,7 @@
                             <div class="data"><i class="fa fa-clock-o"></i> 09h - 12h</div>
                         </div>
                         <div class="bts_baixo d-flex justify-content-between">
-                            <a href="#" class="azul">INSCREVA-SE</a>
+                            <a href="inscreva.php" class="azul">INSCREVA-SE</a>
                             <a href="#">SAIBA MAIS</a>
                         </div>
                     </div>
@@ -312,7 +315,7 @@
                             <div class="data"><i class="fa fa-clock-o"></i> 09h - 12h</div>
                         </div>
                         <div class="bts_baixo d-flex justify-content-between">
-                            <a href="#" class="azul">INSCREVA-SE</a>
+                            <a href="inscreva.php" class="azul">INSCREVA-SE</a>
                             <a href="#">SAIBA MAIS</a>
                         </div>
                     </div>
@@ -349,7 +352,7 @@
                             As experiências acumuladas demonstram um consenso.
                         </p>
                         <a href="#!" class="bt--padrao laranja">SAIBA MAIS</a>
-                        <a href="#!" class="bt--padrao">INSCREVA-SE</a>
+                        <a href="inscreva.php" class="bt--padrao">INSCREVA-SE</a>
                     </div>
                 </div>
             </div>
@@ -414,7 +417,7 @@
           
             <div class="row">
                 <div class="col-12 center">
-                    <a href="#!" class="bt--padrao">Inscreva-se</a>
+                    <a href="inscreva.php" class="bt--padrao">Inscreva-se</a>
                 </div>
             </div>
 
@@ -566,47 +569,105 @@
                 </div>
             </div>
             <div class="row">
-
-                <div class="col-12 d-flex justify-content-around">
-
+                <div class="col-12 d-flex justify-content-around flex-wrap">
                     <div class="item">
-
                         <img src="build/images/cg.jpg" alt="img">
                         <div class="content">
                             <span>Unidade Centro Culinário</span>
                             <span class="local">Montese</span>
-
                             <address> 
                                 Av. dos Expedicionários, 5220
                                 Montese, Fortaleza - CE, 60410-410
                             </address>
                             <a href="#!">Veja no mapa</a>
                         </div>
-
                     </div>
-
                     <div class="item">
-
                         <img src="build/images/cg.jpg" alt="img">
                         <div class="content">
                             <span>Unidade</span>
                             <span class="local">Centro</span>
-
                             <address> 
-                            R. Tereza Cristina, 1213
-Centro, Fortaleza - CE, 60015-141
+                                R. Tereza Cristina, 1213
+                                Centro, Fortaleza - CE, 60015-141
                             </address>
                             <a href="#!">Veja no mapa</a>
                         </div>
-
                     </div>
-
                 </div>
-
             </div>
         </div>
 
     </section>
+
+    <div class="bloco9">
+
+        <div class="container">
+            <div class="row d-flex justify-content-center">
+                <div class="col-12 col-lg-8">
+
+                    <h2>Entre em Contato</h2>
+
+                    <p>Preencha seus dados  corretamente e aguarde nosso contato.</p>
+
+                </div>
+            </div>
+
+            <div class="row  d-flex justify-content-center">
+
+                <div class="col-12 col-lg-8">
+                
+                    <form action="">
+
+                        <div class="row">
+
+                            <div class="col-lg-6 col-12">
+                                <div class="form-group">
+                                    <label>Nome</label>
+                                    <input type="text" class="form-control" placeholder="Digite seu nome">
+                                </div> 
+                                <div class="form-group">
+                                    <label>Telefone</label>
+                                    <input type="text" id="telefone" class="form-control" placeholder="Digite seu telefone">
+                                </div>
+                              
+                            </div>
+
+                            <div class="col-lg-6 col-12">
+                                <div class="form-group">
+                                    <label>E-mail</label>
+                                    <input type="email" class="form-control" placeholder="Digite seu e-mail">
+                                </div>
+                                <div class="form-group">
+                                    <label>Assunto</label>
+                                    <input type="text" class="form-control" placeholder="Digite o assunto">
+                                </div>
+                                
+                            </div>
+
+                           
+
+                            <div class="col-12">
+
+                                <div class="form-group">
+                                    <label>Mensagem</label>
+                                    <textarea placeholder="Digite sua mensagem" class="form-control"></textarea>
+                                </div>
+
+                                <input type="submit" value="ENVIAR">
+                            
+                            </div>
+                        
+                        
+                        </div>
+                    </form>
+
+                </div>
+            
+            </div>
+        </div>
+    
+    </div>
 
 </div>
 

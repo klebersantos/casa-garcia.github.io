@@ -23,7 +23,7 @@
     <link rel="manifest" href="build/images/favicon/manifest.json">
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="build/images/favicon/ms-icon-144x144.png">
-    <meta name="theme-color" content="#fff">
+    <meta name="theme-color" content="#004191">
 
 </head>
 
@@ -80,7 +80,7 @@
                                 <a class="nav-link" href="catering.php">Contatos</a>
                             </li>
                         </ul>
-                        <a href="#" class="bt--padrao">INSCREVA-SE</a>
+                        <a href="inscreva.php" class="bt--padrao">INSCREVA-SE</a>
                     </nav>
                 </div>
             </div>
@@ -119,36 +119,34 @@
                     <a class="nav-link" href="#">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Quem Somos</a>
+                    <a class="nav-link" href="#">Centro Culinário</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Atuação</a>
+                    <a class="nav-link" href="#">Cursos</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Espaços</a>
+                    <a class="nav-link" href="#">Casa Garcia Gourmet</a>
                 </li>
-                
                 <li class="nav-item">
-                    <a class="nav-link" href="catering.php">Catering</a>
-                </li>
-
-                <li class="nav-item">
-                    <a class="nav-link" href="blog.php">Blog</a>
-                </li>
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink3" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        Contatos
-                    </a>
-                    <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink3">
-                        <li><a class="dropdown-item" href="contato.php">Contato</a></li>
-                        <li><a class="dropdown-item" href="#">Another action</a></li>
-                        <li><a class="dropdown-item" href="#">Another action</a></li>
-                        <li><a class="dropdown-item" href="#">Another action</a></li>
-                        <li><a class="dropdown-item" href="#">Another action</a></li>
-                        <li><a class="dropdown-item" href="#">Another action</a></li>
-                    </ul>
+                    <a class="nav-link" href="catering.php">Contatos</a>
                 </li>
             </ul>
         </nav>
+        <div class="outros">
+            <div class="phones">
+                <a href="tel:558531043324"><i class="fa fa-phone"></i> 85 3104.3324</a> 
+                <a href="https://api.whatsapp.com/send?phone=5585999100644"><i class="fa fa-whatsapp"></i> 85 99910.0644</a>
+            </div>
+            <div class="right">
+                <p>Casa Gargcia Distribuidora</p>
+                <div class="social">
+                    <a href="#"><i class="fa fa-facebook-square"></i></a> 
+                    <a href="#"><i class="fa fa-instagram"></i></a>   
+                    <a href="#"><i class="fa fa-twitter"></i></a>   
+                    <a href="#"><i class="fa fa-youtube"></i></a>                          
+                </div>
+                <a href="#" class="privado">Acesso Privado</a>
+            </div>
+        </div>
     </div>
 
