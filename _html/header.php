@@ -65,19 +65,19 @@
                         <a href="index.php" class="inicio"><img src="assets/images/logop.png" alt="Casa Garcia Gourmet" title="Casa Garcia Gourmet"></a>
                         <ul class="navbar-nav">
                             <li class="nav-item current">
-                                <a class="nav-link" href="#">Home</a>
+                                <a class="nav-link" href="index.php">Home</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Centro Culinário</a>
+                                <a class="nav-link" href="centro-culinario.php">Centro Culinário</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Cursos</a>
+                                <a class="nav-link" href="cursos.php">Cursos</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="#">Casa Garcia Gourmet</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="catering.php">Contatos</a>
+                                <a class="nav-link" href="#contato">Contatos</a>
                             </li>
                         </ul>
                         <a href="inscreva.php" class="bt--padrao">INSCREVA-SE</a>
@@ -116,19 +116,19 @@
         <nav class="navbar">
             <ul class="navbar-nav">
                 <li class="nav-item current">
-                    <a class="nav-link" href="#">Home</a>
+                    <a class="nav-link" href="index.php">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Centro Culinário</a>
+                    <a class="nav-link" href="centro-culinario.php">Centro Culinário</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Cursos</a>
+                    <a class="nav-link" href="cursos.php">Cursos</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">Casa Garcia Gourmet</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="catering.php">Contatos</a>
+                    <a class="nav-link" href="#contato">Contatos</a>
                 </li>
             </ul>
         </nav>

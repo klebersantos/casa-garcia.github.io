@@ -600,7 +600,7 @@
 
     </section>
 
-    <div class="bloco9">
+    <div class="bloco9" id="contato">
 
         <div class="container">
             <div class="row d-flex justify-content-center">

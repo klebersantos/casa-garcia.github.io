@@ -115,7 +115,7 @@
 }
 
 
-.interna.iscreva .bloco9 {
+.interna.inscreva .bloco9 {
   background: #ebebeb;
   h2 {
     color: $cor02;
@@ -186,3 +186,27 @@
 
 
 
+.titulo_interna {
+  background-color: #ebebeb; 
+  padding: 80px 0 40px;
+  span.pre {
+    font-family: "Montserrat";
+    font-size: 18px;
+    display: block;
+    color: $cor02;
+    font-weight: 500;
+    margin: 0 0 40px 0;
+    text-align: center;
+  }
+  h2 {
+    font-size: 48px;
+    color: $cor02;
+    display: block;
+    text-align: center;
+    margin-bottom: 80px;
+    font-weight: 900;
+    span {
+      color: $cor03;
+    }
+  }
+}
