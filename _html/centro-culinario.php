@@ -5,7 +5,7 @@
 
     <div class="interna">
 
-        <div class="titulo_barra" style="background-image: url(build/images/bg-curso.jpg)">
+        <div class="titulo_barra" style="background-image: url(build/images/bg-cc.jpg)">
             
             <div class="container">
                 <div class="row">
