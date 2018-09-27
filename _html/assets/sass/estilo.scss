@@ -945,6 +945,14 @@ body {
   }
 }
 
+.laranja {
+  background: $cor03;
+  margin-right: 30px;
+  @media screen and (max-width: 992px){
+    margin-right: 0;
+  }
+}
+
 
 
 .bloco3 {

@@ -210,3 +210,154 @@
     }
   }
 }
+
+
+article {
+  padding: 70px 0;
+  .bt_cor {
+    margin: 0 10px 30px 0;
+    padding: 5px 0 5px 0;
+    color: #fff;
+    width: 150px;
+    text-align: center;
+    border-radius: 25px;
+    display: block;
+    background:  $cor02;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 12px;
+    @media screen and (max-width: 992px){
+      font-size: 10px;
+    }
+  }
+  .aberto  {
+    background: #7cc737;
+    color: #3e641b;
+  }
+  .ultimas {
+    background: #f1d72b;
+    color: #6b5f10;
+  } 
+  .esgotado {
+    background: #f33838;
+    color: #480a0a;
+  }
+  .valor {
+    font-size: 14px;
+  }
+
+  .hora {
+  }
+
+  .data {
+    text-align: center;
+    padding: 5px 0px; 
+    color: $cor02;
+    margin-right: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    @media screen and (max-width: 992px){
+      font-size: 13px;
+    }
+  }
+
+  .titulo_curso {
+    font-size: 48px;
+    font-weight: 900;
+    margin-bottom: 50px;
+    color: $cor02; 
+    @media screen and (max-width: 992px) {
+      font-size: 30px;
+    }
+  }
+  .d-flex {
+    margin-bottom: 40px;
+    font-size: 18px;
+  }
+  .texto {
+    margin-bottom: 40px;
+    font-size: 18px;
+  }
+  strong {
+    margin-right: 10px;
+    color: $cor02;
+    font-size: 18px;
+
+  }
+  .bt--padrao {
+    width: 264px;
+    height: 50px;
+    font-size: 15px;
+    padding-top: 15px;
+  
+  }
+  .laranja {
+    margin-left: 20px;
+    @media screen and (max-width: 992px) {
+      margin-left: 0;
+    }
+  }
+  .professores {
+    ul {
+      margin: 20px 0 0 0;
+      li {
+        max-width: 145px;
+        text-align: center;
+        img {
+          width: 70px;
+          height: 70px;
+          display: block;
+          object-fit: cover;
+          border-radius: 50%;
+          margin: 0 auto 15px;
+        }
+        span {
+          display: block;
+        }
+        strong {
+          display: block;
+        }
+      }
+    }
+    
+  }
+}
+
+.procura {
+  background: #dedede;
+  min-height: 160px;
+  display: flex;
+  align-items: center;
+  @media screen and (max-width: 992px) {
+    padding: 20px 0;
+  }
+  h3 {
+    max-width: 165px;
+    color: $cor02;
+    margin-top: 29px;
+    font-size: 18px;
+    font-weight: 900;
+  }
+  input {
+    border-width: 1px;
+    border-color: rgb(169, 169, 169);
+    border-style: solid;
+    width: 100%;
+    border-radius: 4px;
+    height: 45px;
+    background-color: rgb(204, 202, 202);
+  }
+  label {
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #212020;
+  }
+  .bt--padrao {
+    background: $cor02;
+    margin-top: 29px;
+    border: none;
+    &:hover {
+      background: $cor03;
+    }
+  }
+}

@@ -62,7 +62,7 @@
             <div class="col-12">
                 <div class="box">
                     <nav class="navbar navbar-expand-md  d-flex justify-content-between align-items-center">
-                        <a href="index.php" class="inicio"><img src="assets/images/logop.png" alt="Casa Garcia Gourmet" title="Casa Garcia Gourmet"></a>
+                        <a href="index.php" class="inicio"><img src="build/images/logop.png" alt="Casa Garcia Gourmet" title="Casa Garcia Gourmet"></a>
                         <ul class="navbar-nav">
                             <li class="nav-item current">
                                 <a class="nav-link" href="index.php">Home</a>
